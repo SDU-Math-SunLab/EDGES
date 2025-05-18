@@ -8,7 +8,8 @@ The following are detailed tutorials.
 ## How to run
 ### Data preprocess
 The raw ST data retains only the genes shared with scRNA-seq data, and the scRNA-seq data is divided into shared and unique scRNA-seq data based on these shared genes.
-### Data preprocess
+### Version
+Matlab 2020a
 ### How to Run
 You can execute the model as follows:
 ```matlab
