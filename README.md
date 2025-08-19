@@ -1,4 +1,4 @@
-﻿# EDGES
+# EDGES
 ## Overview
 #### Figure: EDGES Framework 
 EDGES is a spatially constrained non-negative matrix factorization (NMF) framework designed for gene expression denoising and prediction in spatial transcriptomic (ST) data.![EDGES overview](https://i.imgur.com/SpWkY1M.png)
@@ -65,6 +65,6 @@ W1, W2, H1, H2, p1, p2 = EDGES(X, Y, Z, L1, lambda1, lambda2, theta1, theta2, to
 ```
 You can also run the Python version of EDGES via demo.ipynb.
 ## Reference
-Jinyue Zhao, Jiating Yu, Yuqing Cao, Fan Yuan, Ling-Yun Wu, and Duanchen Sun. "Enhancing Spatial Transcriptomics via Spatially Constrained Matrix Decomposition with EDGES."
+Jinyue Zhao, Jiating Yu, Yuqing Cao, Fan Yuan, Ling-Yun Wu, and Duanchen Sun. Enhancing Spatial Transcriptomics via Spatially Constrained Matrix Decomposition with EDGES. *Advanced Science*, 2025.
 
 
