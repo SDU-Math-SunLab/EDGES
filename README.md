@@ -65,6 +65,6 @@ W1, W2, H1, H2, p1, p2 = EDGES(X, Y, Z, L1, lambda1, lambda2, theta1, theta2, to
 ```
 You can also run the Python version of EDGES via demo.ipynb.
 ## Reference
-Jinyue Zhao, Jiating Yu, Yuqing Cao, Fan Yuan, Ling-Yun Wu, and Duanchen Sun. Enhancing Spatial Transcriptomics via Spatially Constrained Matrix Decomposition with EDGES. *Advanced Science*, 2025.
+Jinyue Zhao, Jiating Yu, Yuqing Cao, Fan Yuan, Ling-Yun Wu, and Duanchen Sun. Enhancing Spatial Transcriptomics via Spatially Constrained Matrix Decomposition with EDGES. *Advanced Science*, 2025. https://doi.org/10.1002/advs.202508346
 
 
